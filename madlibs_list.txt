@@ -4,11 +4,11 @@
 4. Color
 5. Month
 6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
+7. Aliens
+8. Robots
+9. Origin
+10.Blue Room
+11.Elixir
 12. Adjective
 13. Material
 14. Activity
