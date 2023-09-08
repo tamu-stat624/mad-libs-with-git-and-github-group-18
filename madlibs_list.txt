@@ -1,9 +1,10 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-6. Number
+
+1. Reveille
+2. Malfunctioning
+3. Distant
+4. Purple
+5. August
+6. 99
 7. Aliens
 8. Robots
 9. Origin
